@@ -1,8 +1,8 @@
 {
-  "name": "SuperSimpleBrowser",
-  "version": "0.0.2",
-  "description": "Super Simple Browser that contain Super Simple",
-  "author": "Super Simple Developer",
+  "name": "MaceWeb",
+  "version": "1.0.0",
+  "description": "A web browser by Mace Cail",
+  "author": "Mace Cail",
   "homepage": "",
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   "build": {
     "appId": "com.Professional.browser",
     "productName": "Professional Browser",
-    "copyright": "Copyright © 2019 Super Simple",
+    "copyright": "Copyright © 2023 Mace Cail",
     "files": [
       "build/**/*",
       "node_modules/**/*",
